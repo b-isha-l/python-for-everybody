@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9174ce7b-f07d-44fa-97aa-fada56deb5c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python data structures/build, short and display a list of word from file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python data structures/display mail sent hour with sorting and repeating time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python data structures/extract number of string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python data structures/find who has sent the greatest mail using dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python data structures/open, read and display content of file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python data structures/read file and display email address.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python data structures/read file, extract floating point and find average.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python data structures/romeo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python data structures/word.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python data structures/display mail sent hour with sorting and repeating time.py" beforeDir="false" afterPath="$PROJECT_DIR$/python data structures/display mail sent hour with sorting and repeating time.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python data structures/find who has sent the greatest mail using dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/python data structures/find who has sent the greatest mail using dict.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +36,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.read file and display email address">
+  <component name="RunManager" selected="Python.display mail sent hour with sorting and repeating time">
     <configuration name="build, short and display a list of word from file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-for-everybody" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,7 +58,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="extract number of string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="display mail sent hour with sorting and repeating time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-for-everybody" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,7 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python data structures/extract number of string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python data structures/display mail sent hour with sorting and repeating time.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="open, read and display content of file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="find who has sent the greatest mail using dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-for-everybody" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,7 +91,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python data structures/open, read and display content of file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python data structures/find who has sent the greatest mail using dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.display mail sent hour with sorting and repeating time" />
+        <item itemvalue="Python.find who has sent the greatest mail using dict" />
         <item itemvalue="Python.read file and display email address" />
         <item itemvalue="Python.build, short and display a list of word from file" />
         <item itemvalue="Python.read file, extract floating point and find average" />
-        <item itemvalue="Python.open, read and display content of file" />
-        <item itemvalue="Python.extract number of string" />
       </list>
     </recent_temporary>
   </component>
@@ -187,21 +180,21 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602143563346" />
-    <state width="468" height="638" key="GridCell.Tab.0.bottom" timestamp="1602148346987">
+    <state width="499" height="638" key="GridCell.Tab.0.bottom" timestamp="1603038021927">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="468" height="638" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1602148346987" />
-    <state width="468" height="638" key="GridCell.Tab.0.center" timestamp="1602148346987">
+    <state width="499" height="638" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1603038021927" />
+    <state width="499" height="638" key="GridCell.Tab.0.center" timestamp="1603038021926">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="468" height="638" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1602148346987" />
-    <state width="468" height="638" key="GridCell.Tab.0.left" timestamp="1602148346982">
+    <state width="499" height="638" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1603038021926" />
+    <state width="499" height="638" key="GridCell.Tab.0.left" timestamp="1603038021926">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="468" height="638" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1602148346982" />
-    <state width="468" height="638" key="GridCell.Tab.0.right" timestamp="1602148346987">
+    <state width="499" height="638" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1603038021926" />
+    <state width="499" height="638" key="GridCell.Tab.0.right" timestamp="1603038021926">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="468" height="638" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1602148346987" />
+    <state width="499" height="638" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1603038021926" />
   </component>
 </project>

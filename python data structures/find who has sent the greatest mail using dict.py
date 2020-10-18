@@ -9,4 +9,22 @@ the program reads through the dictionary using a maximum loop to find the most p
 fname = input("Enter file name: ")
 if len(fname) < 0:
     fname = "mbox-short.txt"
-max
+sent_lst = dict()
+fhand = open(fname)
+
+for lines in fhand:
+    if not lines.startswith("From"):
+        continue
+    line = lines.split()
+    email = line[1]
+    sent_lst[email] = sent_lst.get(email, 0) + 1
+
+large = None
+max = None
+for key in sent_lst:
+    if large is None:
+        large = sent_lst[key]
+    if large < sent_lst[key]:
+        large = sent_lst[key]
+        max = key
+print(max, int(large/2))
