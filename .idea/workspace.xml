@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9174ce7b-f07d-44fa-97aa-fada56deb5c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/programming for everybody/finding grade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming for everybody/finding largest and smallest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming for everybody/finding pay using condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming for everybody/finding pay using function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming for everybody/finding pay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming for everybody/wellcome to user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming for everybody/print hello world.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming for everybody/print hello world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python data structures/build, short and display a list of word from file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python data structures/display mail sent hour with sorting and repeating time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python data structures/extract number of string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python data structures/find who has sent the greatest mail using dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python data structures/open, read and display content of file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python data structures/read file and display email address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python data structures/read file, extract floating point and find average.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python data structures/romeo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python data structures/word.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/python data structures/extract number of string.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1i2mZ2oEpsPrcA2F8MMB80Hd3AO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -34,10 +40,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.finding largest and smallest">
-    <configuration name="finding grade" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.read file and display email address">
+    <configuration name="build, short and display a list of word from file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-for-everybody" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -45,11 +52,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming for everybody" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python data structures" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming for everybody/finding grade.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python data structures/build, short and display a list of word from file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,7 +65,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="finding largest and smallest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="extract number of string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-for-everybody" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming for everybody" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python data structures" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming for everybody/finding largest and smallest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python data structures/extract number of string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="finding pay using condition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="open, read and display content of file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-for-everybody" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming for everybody" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python data structures" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming for everybody/finding pay using condition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python data structures/open, read and display content of file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="finding pay using function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="read file and display email address" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-for-everybody" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming for everybody" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python data structures" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming for everybody/finding pay using function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python data structures/read file and display email address.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="finding pay" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="read file, extract floating point and find average" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-for-everybody" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming for everybody" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python data structures" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming for everybody/finding pay.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python data structures/read file, extract floating point and find average.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.finding largest and smallest" />
-        <item itemvalue="Python.finding pay using function" />
-        <item itemvalue="Python.finding grade" />
-        <item itemvalue="Python.finding pay using condition" />
-        <item itemvalue="Python.finding pay" />
+        <item itemvalue="Python.read file and display email address" />
+        <item itemvalue="Python.build, short and display a list of word from file" />
+        <item itemvalue="Python.read file, extract floating point and find average" />
+        <item itemvalue="Python.open, read and display content of file" />
+        <item itemvalue="Python.extract number of string" />
       </list>
     </recent_temporary>
   </component>
@@ -164,25 +171,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="405" y="205" key="#Notifications" timestamp="1603031237154">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="405" y="205" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1603031237154" />
     <state x="275" y="24" key="#Plugins" timestamp="1601114215162">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="24" key="#Plugins/0.0.1366.768@0.0.1366.768" timestamp="1601114215162" />
-    <state width="1345" height="185" key="GridCell.Tab.0.bottom" timestamp="1601120339625">
+    <state x="431" y="244" key="#Updates" timestamp="1603031118508">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="185" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601120339625" />
-    <state width="1345" height="185" key="GridCell.Tab.0.center" timestamp="1601120339625">
+    <state x="431" y="244" key="#Updates/0.0.1366.768@0.0.1366.768" timestamp="1603031118508" />
+    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1602143563346">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="185" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601120339625" />
-    <state width="1345" height="185" key="GridCell.Tab.0.left" timestamp="1601120339625">
+    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602143563346" />
+    <state width="468" height="638" key="GridCell.Tab.0.bottom" timestamp="1602148346987">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="185" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601120339625" />
-    <state width="1345" height="185" key="GridCell.Tab.0.right" timestamp="1601120339625">
+    <state width="468" height="638" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1602148346987" />
+    <state width="468" height="638" key="GridCell.Tab.0.center" timestamp="1602148346987">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="185" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601120339625" />
+    <state width="468" height="638" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1602148346987" />
+    <state width="468" height="638" key="GridCell.Tab.0.left" timestamp="1602148346982">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="468" height="638" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1602148346982" />
+    <state width="468" height="638" key="GridCell.Tab.0.right" timestamp="1602148346987">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="468" height="638" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1602148346987" />
   </component>
 </project>
