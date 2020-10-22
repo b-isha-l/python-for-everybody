@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9174ce7b-f07d-44fa-97aa-fada56deb5c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/using python to access web data/extracting data from json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/using python to access web data/extracting data from xml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/using python to access web data/extracting data with regular expression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/using python to access web data/follow the links in html using beautifulsoup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/using python to access web data/regex_sum_603406.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/using python to access web data/scrabing html data using beautifulsoup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/using python to access web data/understand the request response cycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/using python to access web data/using the geojson api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/using database with python/counting email in a database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/using database with python/geodata/database and visualization.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/using database with python/many students in many courses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/using database with python/mbox.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/using database with python/multitable tracks database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/using database with python/our first database.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +41,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Python.using the geojson api">
-    <configuration name="extracting data from json" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python-for-everybody\using database with python\geodata" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.geodump">
+    <configuration name="counting email in a database" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-for-everybody" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,11 +55,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/using python to access web data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/using database with python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/using python to access web data/extracting data from json.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/using database with python/counting email in a database.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="extracting data from xml (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="geodump" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-for-everybody" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../py4e" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/using database with python/geodata" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../py4e/extracting data from xml.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/using database with python/geodata/geodump.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="extracting data from xml" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="geoload" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-for-everybody" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/using python to access web data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/using database with python/geodata" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/using python to access web data/extracting data from xml.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/using database with python/geodata/geoload.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="follow the links in html using beautifulsoup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="many students in many courses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-for-everybody" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/using python to access web data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/using database with python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/using python to access web data/follow the links in html using beautifulsoup.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/using database with python/many students in many courses.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="using the geojson api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="multitable tracks database" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-for-everybody" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/using python to access web data" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/using database with python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/using python to access web data/using the geojson api.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/using database with python/multitable tracks database.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.using the geojson api" />
-        <item itemvalue="Python.extracting data from json" />
-        <item itemvalue="Python.extracting data from xml" />
-        <item itemvalue="Python.extracting data from xml (1)" />
-        <item itemvalue="Python.follow the links in html using beautifulsoup" />
+        <item itemvalue="Python.geodump" />
+        <item itemvalue="Python.geoload" />
+        <item itemvalue="Python.multitable tracks database" />
+        <item itemvalue="Python.many students in many courses" />
+        <item itemvalue="Python.counting email in a database" />
       </list>
     </recent_temporary>
   </component>
@@ -183,26 +186,30 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="431" y="244" key="#Updates/0.0.1366.768@0.0.1366.768" timestamp="1603031118508" />
+    <state x="347" y="69" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603378279650">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="347" y="69" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1603378279650" />
     <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1602143563346">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602143563346" />
-    <state width="579" height="608" key="GridCell.Tab.0.bottom" timestamp="1603273362136">
+    <state width="509" height="608" key="GridCell.Tab.0.bottom" timestamp="1603378606068">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="579" height="608" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1603273362136" />
-    <state width="579" height="608" key="GridCell.Tab.0.center" timestamp="1603273362136">
+    <state width="509" height="608" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1603378606068" />
+    <state width="509" height="608" key="GridCell.Tab.0.center" timestamp="1603378606068">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="579" height="608" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1603273362136" />
-    <state width="579" height="608" key="GridCell.Tab.0.left" timestamp="1603273362136">
+    <state width="509" height="608" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1603378606068" />
+    <state width="509" height="608" key="GridCell.Tab.0.left" timestamp="1603378606068">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="579" height="608" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1603273362136" />
-    <state width="579" height="608" key="GridCell.Tab.0.right" timestamp="1603273362136">
+    <state width="509" height="608" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1603378606068" />
+    <state width="509" height="608" key="GridCell.Tab.0.right" timestamp="1603378606068">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="579" height="608" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1603273362136" />
+    <state width="509" height="608" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1603378606068" />
     <state x="97" y="0" key="SettingsEditor" timestamp="1603199574001">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
